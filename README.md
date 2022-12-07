@@ -1,2 +1,2 @@
-# course-kotlin
-NC Course Kotlin
+# Course Jetpack Android
+Course NC Jetpack Android
